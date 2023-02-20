@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://i.postimg.cc/25h93v34/Christiaancodes-1.jpg" width="50%"/>
+  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
 <h3 align="center">A full stack developer from Tampa, FL</h3>
@@ -21,7 +21,7 @@
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-plain-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="75" height="75"/>
-                       
+                      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> 
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
