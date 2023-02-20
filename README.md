@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="[https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg](https://i.postimg.cc/25h93v34/Christiaancodes-1.jpg)" width="100%"/>
+  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
 <h3 align="center">A full stack developer from Tampa, FL</h3>
@@ -156,6 +156,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joesantosgarcia&" alt="codingphasedotcom" /></p>
 </div>
 <br>
+
 
 
 
