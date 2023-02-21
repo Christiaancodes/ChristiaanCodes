@@ -49,7 +49,7 @@
 						<a href="https://github.com/Christiaancodes/PackerHtmlEmail" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://packer-promotional-email.netlify.app/" target="_blank">
+						<a href="https://kith-receipt-email.netlify.app/" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
