@@ -1,9 +1,9 @@
 <div id="" align="center">
   <img src="https://i.postimg.cc/25h93v34/Christiaancodes-1.jpg" width="50%"/>
 </div>
-<h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
+<h1 align="center">Hi 👋, I'm Christian Dickens</h1>
 <h3 align="center">A full stack developer from Tampa, FL</h3>
-<h4 align="center">Hi my name is Joe Santos Garcia a web developer based out of NYC. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h4 align="center">Hi my name is Christian Dickens a web developer based out of Las Vegas.</h4>
 
 <hr>
 
@@ -42,7 +42,7 @@
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 1" height="100%" />
+						<img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/smartbizscreenshot.jpg?raw=true" />
 					</a>
 					<br>
 					<br>
