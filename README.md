@@ -54,7 +54,7 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>SMartbiz Email NewsletterL</strong></p>
+					<p><strong>SMartbiz Email Newsletter</strong></p>
           <p>
 						Html email I made and tested with Litmus
 					</p>
