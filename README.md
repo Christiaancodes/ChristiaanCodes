@@ -42,7 +42,7 @@
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/smartbizscreenshot.jpg?raw=true" />
+						<img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/SmartbizThumbnail.jpg?raw=true" />
 					</a>
 					<br>
 					<br>
