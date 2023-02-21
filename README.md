@@ -64,7 +64,7 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/kithReceiptThumbnail.jpg?raw=true" />
+						<img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/KithThumbnail.jpg?raw=true" />
 					</a>
 					<br>
 					<br>
