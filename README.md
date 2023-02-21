@@ -76,7 +76,7 @@
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href='https://github.com/Christiaancodes/SmartbizzHtmlEmal' target="_blank">
+                    <a href="https://smartbiz-newsletter-email.netlify.app" target="_blank">
                         <img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/SmartbizThumbnail.jpg?raw=true" />
                     </a>
                     <br>
