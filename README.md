@@ -46,7 +46,7 @@
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Christiaancodes/KithReceiptHtmlEmail" target="_blank">
+						<a href="https://github.com/Christiaancodes/PackerHtmlEmail" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://codingphase.com" target="_blank">
