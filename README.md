@@ -85,7 +85,7 @@
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                        <img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/PackerThumbnail.jpg?raw=true" />
                     </a>
                     <br>
                     <br>
