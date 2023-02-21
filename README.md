@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/25h93v34/Christiaancodes-1.jpg" width="50%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Christian Dickens</h1>
-<h3 align="center">A Web developer from Las Vegas, NV</h3>
+<h3 align="center">A web developer from Las Vegas, NV</h3>
 <h4 align="center">Hi my name is Christian Dickens a web developer based out of Las Vegas.</h4>
 
 <hr>
