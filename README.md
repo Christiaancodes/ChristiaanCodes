@@ -96,8 +96,9 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
+                    <p><strong>Packer Promotional Email</strong></p>
+		    <p>						Html email I made and tested with Litmus
+</p>
                 </div>
             </td>
             <td width="50%">
