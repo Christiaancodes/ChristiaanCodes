@@ -110,7 +110,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p><strong>Big Barker Newsletter</strong></p>
+                    <p><strong>Riu Promotional Email</strong></p>
 		    <p>						Html email I made and tested with Litmus
 </p>
                 </div>	
