@@ -97,16 +97,16 @@
             <td width="50%">
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
-                    <a href="https://bigbarket-newsletter.netlify.app" target="_blank">
-                        <img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/BigBarkerNewsletterThumbnail.png?raw=true" />
+                    <a href="https://riuclasspromotional.netlify.app" target="_blank">
+                        <img src="https://github.com/Christiaancodes/ChristiaanCodes/blob/main/assets/RiuClassThumbnail.jpg?raw=true" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/Christiaancodes/Big-Barker-Html-Email" target="_blank">
+                        <a href="https://github.com/Christiaancodes/RiuHtmlEmail" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://bigbarket-newsletter.netlify.app" target="_blank">
+						<a href="https://riuclasspromotional.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
